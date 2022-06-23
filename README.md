@@ -2,6 +2,8 @@
 This readme file shows my attempt at web-scraping a multi-page website to gather their contact data.
 This is the link to the website: https://www.australianinvestmentnetwork.com/business-proposal/1
 
+From a quick look, this website contains the website and name of various companies.However, this website contains roughly 50 pages worth of data, to manually scrape data from this site would take hours. Hence ,utilising a scraper would be useful in efficiently iterating through each page and scraping the data from each company.
+
 ```python
 !pip install scrapy
 ```
