@@ -67,7 +67,7 @@ mount_drive("gdrive/MyDrive/")
     gdrive/MyDrive/
 
 
-
+Within the initialisation of the scraper, i decided to code the scraper to iterate over all available pages within the website on company data. This way,i do not have to create a code for each of the 30 pages within the website. After scraping the data from each page into roughly 30 pages into an individual dataframe each, i concatenated all the dataframes together into one main dataframe before conducting the typical data cleaning process.
 
 ```python
 import pandas as pd
