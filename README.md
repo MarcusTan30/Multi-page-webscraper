@@ -1,4 +1,5 @@
 # Multi page webscraper
+This readme file shows my attempt at web-scraping a multi-page website to gather their contact data.
 
 ```python
 !pip install scrapy
