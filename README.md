@@ -119,11 +119,11 @@ process.start()
 ```
 
     2022-06-23 06:59:15 [scrapy.utils.log] INFO: Scrapy 2.6.1 started (bot: scrapybot)
-    2022-06-23 06:59:15 [scrapy.utils.log] INFO: Versions: lxml 4.2.6.0, libxml2 2.9.8, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 22.4.0, Python 3.7.13 (default, Apr 24 2022, 01:04:09) - [GCC 7.5.0], pyOpenSSL 22.0.0 (OpenSSL 3.0.3 3 May 2022), cryptography 37.0.2, Platform Linux-5.4.188+-x86_64-with-Ubuntu-18.04-bionic
+    2022-06-23 06:59:15 [scrapy.utils.log] INFO: Versions: lxml 4.2.6.0, libxml2 2.9.8, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 22.4.0, Python 3.7.13 (default, Apr 24 2022, 01:04:09) - [GCC 7.5.0], pyOpenSSL 22.0.0 (OpenSSL 3.0.3 3 May 2022), cryptography 37.0.2, Platform Linux-XXXXXXXXX-with-Ubuntu-18.04-bionic
     2022-06-23 06:59:15 [scrapy.crawler] INFO: Overridden settings:
     {}
     2022-06-23 06:59:15 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.epollreactor.EPollReactor
-    2022-06-23 06:59:15 [scrapy.extensions.telnet] INFO: Telnet Password: 139af51a9eae14fb
+    2022-06-23 06:59:15 [scrapy.extensions.telnet] INFO: Telnet Password: XXXXXXXXXX
     2022-06-23 06:59:15 [scrapy.middleware] INFO: Enabled extensions:
     ['scrapy.extensions.corestats.CoreStats',
      'scrapy.extensions.telnet.TelnetConsole',
