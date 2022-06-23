@@ -61,36 +61,6 @@ mount_drive("gdrive/MyDrive/")
 
     Mounted at /content/gdrive
     gdrive/MyDrive/
-    
-
-
-
-
-    ['GARBAGE',
-     'Admin',
-     'Others',
-     'TBG bill.pdf',
-     'Session Details.gdoc',
-     'week 6 response.gdoc',
-     'Finished',
-     'Copy of AUs.gmap',
-     'Untitled map.gmap',
-     'Personal Learning',
-     'Application material',
-     'Marcus insurance.gdoc',
-     'School notability',
-     'School',
-     'Australia admin',
-     'Tan_Xi_Zhi_Resume.pdf',
-     'Family Finances',
-     'Untitled spreadsheet (1).gsheet',
-     'test.gsheet',
-     'Colab Notebooks',
-     'Resale_flat_spyder.csv',
-     'Copy of Untitled0.ipynb',
-     'Copy of SDG_Data_extraction (1).ipynb',
-     'Copy of SDG_Data_extraction.ipynb',
-     'Untitled spreadsheet.gsheet']
 
 
 
